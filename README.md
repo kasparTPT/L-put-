@@ -1,2 +1,2 @@
-# Löputöö
+# Lõputöö
 Lõputöö ülesanne
